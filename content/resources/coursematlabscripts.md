@@ -3,6 +3,7 @@ content_type: resource
 description: ''
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/18-04-complex-variables-with-applications-fall-1999/18489ea5c3a642f40f0e901a6fe64aa2_CourseMatLabscripts.pdf
 file_type: application/pdf
+parent_uid: c5c32e7f-a1b5-9d57-425a-fdc26b87de06
 resourcetype: Document
 title: CourseMatLabscripts.pdf
 uid: 18489ea5-c3a6-42f4-0f0e-901a6fe64aa2

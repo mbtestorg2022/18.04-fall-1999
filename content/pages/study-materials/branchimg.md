@@ -15,4 +15,4 @@ Imaginary part of the Principal Part branch of the cubic root function on the co
 
 Picture obtained using the script PlotCube in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 2: Imaginary part of the Principal Value of the cube root. ](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/ImCubeRootPVH.GIF)
+{{< resource "3b1cf923-3989-44e2-654d-398edaa49aca" >}}

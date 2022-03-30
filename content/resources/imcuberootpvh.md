@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 resourcetype: Image
 title: ImCubeRootPVH.GIF
 uid: 3b1cf923-3989-44e2-654d-398edaa49aca

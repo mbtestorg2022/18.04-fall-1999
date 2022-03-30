@@ -12,4 +12,4 @@ Infinite spiral staircase-like Riemann Surface for the logarithm. The picture sh
 
 Picture obtained using the script RiemannSur in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 1: Riemann Surface: The Logarithm](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/riem_log_ZH.GIF)
+{{< resource "a3c586c4-79f6-5dbc-7072-cb1c6ec66db9" >}}

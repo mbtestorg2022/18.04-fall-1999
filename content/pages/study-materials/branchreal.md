@@ -15,4 +15,4 @@ Real part of the Principal Part branch of the cubic root function on the complex
 
 Picture obtained using the script PlotCube in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 1: Real part of the Principal Vale of the cube root.](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/ReCubeRootPVH.GIF)
+{{< resource "38241b4f-51d4-615d-f94d-343208a83f9f" >}}

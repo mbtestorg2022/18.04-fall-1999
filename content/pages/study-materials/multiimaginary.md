@@ -15,5 +15,5 @@ Imaginary part of the cubic root function on the complex plane. Notice how the t
 
 Picture obtained using the script PlotCube in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 2: Imaginary part of the cube root on the complex plane](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/ImCubeRootH.GIF)  
+{{< resource "2c03b336-a047-c3c3-0c99-a67db10d13bd" >}}  
 Figure 2: Imaginary part of the cube root on the complex plane

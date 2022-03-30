@@ -14,7 +14,7 @@ One way to get a single valued function out of a multiple valued function is to 
 
 We point out that the process by which a branch of a multiple valued function is constructed is somewhat arbitrary; the selection of the branch cuts is only limited by the fact that they must be there to prevent the multiple values from arising. This leaves a large amount of freedom in their selection. Thus, the branches of a multiple valued function are highly non-unique and (generally) there is nothing to make one branch special over another (excepting special reasons that may arise in specific applications and uses of complex variables).
 
-[![Figure 1: Real part of the Principal Value of the cube root.](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/ReCubeRootPV.GIF)]({{< baseurl >}}/pages/study-materials/branchreal)  
+[{{< resource "5c7cca7d-e77f-770a-2575-801445f44045" >}}]({{< baseurl >}}/pages/study-materials/branchreal)  
 Figure 1: Real part of the Principal Value of the cube root.
 
 Unfortunately, a price must be paid for the single valued function a branch of a multiple valued function provides. The price is that **branches are discontinuous along the branch cuts**. On the other hand, branches are necessary, since they provide the only practical way of actually doing computations that involve multiple valued complex functions.
@@ -25,5 +25,5 @@ Notice that, since this function can take only three values, on the complex plan
 
 Furthermore, if we attempt to continue the function across the cut in a smooth fashion, the function (instead of taking the values given by the principal value) takes the values given by one of the other branches. This is a quite general phenomena: **Any given branch of multiple valued function connects smoothly with some other branch when a path crossing a branch cut is followed**. Here, as we cross the negative real axis, we will connect with one or the other of the two other branches, depending on which direction the crossing is made. In examples with many branch cuts and many possible branches, the situation can become quite confusing (the famous Minotaur labyrinth of Greek mythology might look trivial by comparison with the situations that relatively simple complex functions give rise to).
 
-[![Figure 2: Imaginary part of the Principal Value of the cube root.](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/ImCubeRootPV.GIF)]({{< baseurl >}}/pages/study-materials/branchimg)  
+[{{< resource "f2392800-de97-7957-0571-0d6e006b6221" >}}]({{< baseurl >}}/pages/study-materials/branchimg)  
 Figure 2: Imaginary part of the Principal Value of the cube root.

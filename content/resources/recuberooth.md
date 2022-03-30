@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 resourcetype: Image
 title: ReCubeRootH.GIF
 uid: 7d006af3-ad2d-611b-4ee7-1b641d317dbb

@@ -12,5 +12,5 @@ Riemann Surface for (z2\-1)1/2. This surface is an object in four dimensions and
 
 Picture obtained using the script RiemannSur in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 3: Top view of the Riemann Surface for the function f(z)=(z2-1)1/2 ](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/riem_sqrt_Z2m1_tvH.GIF)  
+{{< resource "41452dc5-8338-3717-1cae-0ca94593d742" >}}  
 Figure 3: Top view of the Riemann Surface for the function f(z)=(z2\-1)1/2

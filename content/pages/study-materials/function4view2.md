@@ -14,5 +14,5 @@ Then we join them along the corresponding lips of the branch cuts on x > 1 (mark
 
 Picture obtained using the script RiemannSur in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 2: Riemann Surface for the function f(z)=log(1-z1/2) ](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/riem_log_1mSqrt_Z_bH.GIF)  
+{{< resource "9b5687ad-3841-aecf-6ea5-0f04321d38e1" >}}  
 Figure 2: Riemann Surface for the function f(z)=log(1-z1/2)

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 resourcetype: Image
 title: NewtonCubeRoot.GIF
 uid: 3ed42554-fad1-1017-aa47-1b1cd962e42c

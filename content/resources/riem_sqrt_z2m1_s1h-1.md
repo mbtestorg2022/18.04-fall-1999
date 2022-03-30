@@ -8,6 +8,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 resourcetype: Image
 title: riem_sqrt_Z2m1_s1H.GIF
 uid: 1d4806a2-84a4-d520-c329-7a7fe07e2279

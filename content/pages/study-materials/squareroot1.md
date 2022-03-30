@@ -12,5 +12,5 @@ Riemann Surface for the square root. This surface is an object in four dimension
 
 Picture obtained using the script RiemannSur in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 1: One view of a square root Riemann Surface](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/riem_sqrt_Z_bvH.GIF)  
+{{< resource "3b660595-f930-8f89-5aa0-5c923f85a3e8" >}}  
 Figure 1: One view of a square root Riemann Surface

@@ -7,6 +7,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 resourcetype: Image
 title: riem_log_Zp1dZm1_sv.GIF
 uid: 0dced190-868b-29c5-2967-e5d9331ee72e

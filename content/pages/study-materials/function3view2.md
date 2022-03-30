@@ -13,5 +13,5 @@ Riemann Surface for f(z)=log(z2\-1). The picture shows only three levels of the 
 
 Picture obtained using the script RiemannSur in the Athena 18.04 MATLAB® Toolkit.
 
-![Figure 2: Top view for the Riemann Surface of the function f(z)=log(z2-1) ](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/riem_log_Z2m1_tvH.GIF)  
+{{< resource "078932bf-a889-e0ee-9906-8e00cf55be8e" >}}  
 Figure 2: Top view for the Riemann Surface of the function f(z)=log(z2\-1)
