@@ -6,20 +6,23 @@ ocw_type: CourseSection
 title: Tools
 uid: c5c32e7f-a1b5-9d57-425a-fdc26b87de06
 ---
+Currently OCW contains a bunch of link-wrapped images like the first one below.  
+They get screwed up when you save. (Extra escapes)
 
-MATLAB® Tutorial ([PDF]({{< baseurl >}}/resources/matlab_tutorial))
+\[
 
-Course MATLAB® Scripts
-----------------------
+{{< resource d76bb2ff-8097-4548-ca14-2acc42d17b0c >}}
 
-The MATLAB® scripts used in the course (sometimes in the lectures directly, other times as suggested extras). The scripts are (mostly, one hopes) user friendly and come with the MATLAB® help feature enabled (and plenty more buried in the comments inside the codes).
+\]({{< baseurl >}}/pages/study-materials/function4view1)
 
-The scripts are an integral part of the course. The students are expected to use them extensively.
+ 
 
-Further information can be found at:
+We are going to convert them to these things, which will not be screwed up when you save:
 
-"[A Practical Introduction to MATLAB®](http://www.math.mtu.edu/~msgocken/intro/intro.html)"
+{{\< resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" href\_uuid="756fad96-a8b6-cb78-2c0f-1b8a186d2e8e" >}}
 
-> It is a good starting. The section on "Simple calculations and graphs" is particularly appropriate for help in getting started.
+{{\< resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" href="https://www.mit.edu" >}}
 
-I hope this is helpful.
+ 
+
+a new edit, wow
