@@ -6,7 +6,7 @@ ocw_type: CourseSection
 title: Tools
 uid: c5c32e7f-a1b5-9d57-425a-fdc26b87de06
 ---
-Currently OCW contains a bunch of link-wrapped images like the first one below.  
+Currently OCW contains a bunch of link-wrapped images like the first one below.   
 They get screwed up when you save. (Extra escapes)
 
 \[
@@ -26,3 +26,15 @@ We are going to convert them to these things, which will not be screwed up when 
  
 
 no difference at all that I can see
+
+ 
+
+{{< resource 1db3f5cd-d4e3-ec3c-746a-d4afbfaef37e >}}
+
+ 
+
+{{< resource 22ac5998-4af8-987e-36cf-048d320eedcf >}}
+
+ 
+
+{{% resource_link 91535a36-94cf-bccb-722b-8afe51c89d30 "Riemann Surfaces: The Square Root" %}}
