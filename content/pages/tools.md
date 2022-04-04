@@ -6,12 +6,28 @@ ocw_type: CourseSection
 title: Tools
 uid: c5c32e7f-a1b5-9d57-425a-fdc26b87de06
 ---
-Currently OCW contains a bunch of link-wrapped images like the first one below.   
+fdfdfd
+
+ 
+
+{{< resource uuid="9739138b-b75a-8e3c-d703-3764fc02730f" >}}
+
+ 
+
+ 
+
+{{% resource_link 0a09263f-fad3-aec9-7244-51fb154459a8 "Riemann Surfaces: f(z)=(z2-1)1/2" %}}
+
+ 
+
+ 
+
+Currently OCW contains a bunch of link-wrapped images like the first one below.  
 They get screwed up when you save. (Extra escapes)
 
 \[
 
-{{< resource d76bb2ff-8097-4548-ca14-2acc42d17b0c >}}
+{{< resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" >}}
 
 \]({{< baseurl >}}/pages/study-materials/function4view1)
 
@@ -19,22 +35,5 @@ They get screwed up when you save. (Extra escapes)
 
 We are going to convert them to these things, which will not be screwed up when you save:
 
-{{\< resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" href\_uuid="756fad96-a8b6-cb78-2c0f-1b8a186d2e8e" >}}
-
-{{\< resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" href="https://www.mit.edu" >}}
-
- 
-
-no difference at all that I can see
-
- 
-
-{{< resource 1db3f5cd-d4e3-ec3c-746a-d4afbfaef37e >}}
-
- 
-
-{{< resource 22ac5998-4af8-987e-36cf-048d320eedcf >}}
-
- 
-
-{{% resource_link 91535a36-94cf-bccb-722b-8afe51c89d30 "Riemann Surfaces: The Square Root" %}}
+{{< resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" href_uuid="756fad96-a8b6-cb78-2c0f-1b8a186d2e8e" >}}
+{{< resource uuid="d76bb2ff-8097-4548-ca14-2acc42d17b0c" href="https://www.mit.edu" >}}
