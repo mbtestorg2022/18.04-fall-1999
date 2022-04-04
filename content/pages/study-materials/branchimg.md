@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Branch Cuts and Branches: Imaginary'
 uid: 03be228f-7502-0e43-8699-16a0b6de4aed
@@ -15,4 +18,4 @@ Imaginary part of the Principal Part branch of the cubic root function on the co
 
 Picture obtained using the script PlotCube in the Athena 18.04 MATLAB® Toolkit.
 
-{{< resource "3b1cf923-3989-44e2-654d-398edaa49aca" >}}
+![Figure 2: Imaginary part of the Principal Value of the cube root. ](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/ImCubeRootPVH.GIF)

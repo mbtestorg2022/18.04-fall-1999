@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Riemann Surfaces: f(z)=log((z+1)/(z-1)) View 2'
 uid: 82e40db7-f6b2-1a20-05a2-ceb553b7b710
@@ -13,5 +16,5 @@ Riemann Surface for f(z) = log((z+1)/(z-1)). The picture shows only four levels 
 
 Picture obtained using the script RiemannSur in the Athena 18.04 MATLAB® Toolkit.
 
-{{< resource "8d8352db-6ad3-b4e2-37f3-f48607655762" >}}  
+![Figure 2: Top view for the Riemann Surface of the function f(z)=log((z+1)/(z-1)) ](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/riem_log_Zp1dZm1_tvH.GIF)  
 Figure 2: Top view for the Riemann Surface of the function f(z)=log((z+1)/(z-1))

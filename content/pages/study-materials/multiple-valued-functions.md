@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: Multiple Valued Functions
 uid: d706415f-25a9-f716-f2cf-5ee8c019dac0
@@ -14,7 +17,7 @@ Multiple values are impossible to avoid in the context of complex valued functio
 
 By contrast, for functions of a complex variable, the various values are usually smoothly "connected". By moving around in the complex plane and tracking the values of the function, it is possible to switch values after going around a closed path. Thus, it is not possible to split (in some natural/obvious way) the multiple values into different functions. The points around which these connections occur (i.e. where the value of the function switches) are called **branch points**.
 
-[{{< resource "05bcb290-edc1-d0dc-1ee9-543a2e2c3a84" >}}]({{< baseurl >}}/pages/study-materials/multireal)  
+[![Figure 1: Real part of the cube root on the complex plane.](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/ReCubeRoot.GIF)]({{< baseurl >}}/pages/study-materials/multireal)  
 Figure 1: Real part of the cube root on the complex plane.
 
 We illustrate this behavior here with the **example of the cubic root function on the complex plane**. Figure 1 shows the real part of the cubic root and Figure 2 shows the imaginary part. At each point in the complex plane (except for the origin) there are three possible cubic roots and this gives rise to the "three level surfaces" that show in each of the pictures. But these three surfaces are, in fact, not disjoint. Notice how they wrap around the origin **(a branch point)** so that it is possible to go from one sheet to another simply by moving around the origin.
@@ -23,5 +26,5 @@ In fact, the three surfaces are just one nice smooth surface (except at the orig
 
 All of this becomes a bit clearer using the notion of the **Riemann Surface associated with a multiple valued function on the complex plane**. Below we will give several examples of this idea.
 
-[{{< resource "d7ecb7a4-5d4d-9da5-90f9-1efc050f247c" >}}]({{< baseurl >}}/pages/study-materials/multiimaginary)  
+[![Figure 2: Imaginary part of the cube root on the complex plane.](/courses/mathematics/18-04-complex-variables-with-applications-fall-1999/study-materials/ImCubeRoot.GIF)]({{< baseurl >}}/pages/study-materials/multiimaginary)  
 Figure 2: Imaginary part of the cube root on the complex plane.
