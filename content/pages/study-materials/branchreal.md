@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Study Materials
+parent_type: CourseSection
 parent_uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 title: 'Branch Cuts and Branches: Real'
 uid: da92f666-217c-d89a-bca9-8306ff997b7c

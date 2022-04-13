@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Study Materials
 uid: 6bfe28ba-cff1-c966-5e04-5bab872d6fad
 ---
@@ -28,10 +30,10 @@ Riemann Surfaces
     
 *   [Riemann Surfaces: the square root]({{< baseurl >}}/pages/study-materials/riemann-surfaces-the-square-root)
     
-*   [Riemann Surfaces: f(z)=(z2\-1)1/2]({{< baseurl >}}/pages/study-materials/riemann-surfaces-f-z-z2-1-1-2)
+*   [Riemann Surfaces: f(z)=(z{{< sup "2" >}}\-1){{< sup "1/2" >}}]({{< baseurl >}}/pages/study-materials/riemann-surfaces-f-z-z2-1-1-2)
     
 *   [Riemann Surfaces: f(z)=log((z+1)/(z-1))]({{< baseurl >}}/pages/study-materials/riemann-surfaces-f-z-log-z-1-z-1)
     
-*   [Riemann Surfaces: f(z)=log(z2\-1)]({{< baseurl >}}/pages/study-materials/riemann-surfaces-f-z-log-z2-1)
+*   [Riemann Surfaces: f(z)=log(z{{< sup "2" >}}\-1)]({{< baseurl >}}/pages/study-materials/riemann-surfaces-f-z-log-z2-1)
     
-*   [Riemann Surfaces: f(z)=log(1-z1/2)]({{< baseurl >}}/pages/study-materials/riemann-surfaces-f-z-log-1-z1-2)
+*   [Riemann Surfaces: f(z)=log(1-z{{< sup "1/2" >}})]({{< baseurl >}}/pages/study-materials/riemann-surfaces-f-z-log-1-z1-2)

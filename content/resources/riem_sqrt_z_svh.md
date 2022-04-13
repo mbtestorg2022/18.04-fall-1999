@@ -7,6 +7,12 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types:
+- Readings
+ocw_type: OCWImage
+parent_title: Readings
+parent_type: CourseSection
+parent_uid: 33a665e8-7180-b033-3d75-933e3b2213ce
 resourcetype: Image
 title: riem_sqrt_Z_svH.GIF
 uid: 22ac5998-4af8-987e-36cf-048d320eedcf
